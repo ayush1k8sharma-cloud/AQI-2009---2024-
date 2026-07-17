@@ -121,5 +121,3 @@ streamlit run Home.py
 ```
 
 ---
-
-*This README was generated based on project conversation history and should be reviewed for accuracy before submission.*
